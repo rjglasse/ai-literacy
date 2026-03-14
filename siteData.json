@@ -1,0 +1,105 @@
+{
+  "enableSearch": true,
+  "pages": [
+    {
+      "src": "index.md",
+      "title": "Home",
+      "headings": {
+        "ai-literacy": "AI Literacy",
+        "units": "Units"
+      },
+      "headingKeywords": {}
+    },
+    {
+      "src": "how-this-course-works.md",
+      "title": "How This Course Works",
+      "headings": {
+        "warmup": "Warmup",
+        "how-this-course-works": "How This Course Works",
+        "this-course-updates-itself": "This course updates itself",
+        "why-that-matters": "Why that matters",
+        "how-learning-works-here": "How learning works here",
+        "knowledge-check": "Knowledge Check"
+      },
+      "headingKeywords": {}
+    },
+    {
+      "src": "youve-already-used-ai.md",
+      "title": "You've Already Used AI",
+      "headings": {
+        "warmup": "Warmup",
+        "knowledge-check": "Knowledge Check"
+      },
+      "headingKeywords": {}
+    },
+    {
+      "src": "under-the-hood.md",
+      "title": "Under the Hood",
+      "headings": {
+        "warmup": "Warmup",
+        "under-the-hood": "Under the Hood",
+        "what-actually-happened-during-training": "What actually happened during training",
+        "tokens-not-words": "Tokens, not words",
+        "why-it-sounds-so-confident": "Why it sounds so confident",
+        "what-the-model-doesn-t-have": "What the model doesn't have",
+        "why-this-matters": "Why this matters",
+        "knowledge-check": "Knowledge Check"
+      },
+      "headingKeywords": {}
+    },
+    {
+      "src": "current-landscape.md",
+      "title": "What AI Can (and Can't) Do Right Now",
+      "headings": {
+        "warmup": "Warmup",
+        "knowledge-check": "Knowledge Check"
+      },
+      "headingKeywords": {}
+    },
+    {
+      "src": "evaluating-outputs.md",
+      "title": "Evaluating AI Outputs",
+      "headings": {
+        "warmup": "Warmup",
+        "knowledge-check": "Knowledge Check"
+      },
+      "headingKeywords": {}
+    },
+    {
+      "src": "using-ai-strategically.md",
+      "title": "Using AI Strategically",
+      "headings": {
+        "warmup": "Warmup",
+        "knowledge-check": "Knowledge Check"
+      },
+      "headingKeywords": {}
+    },
+    {
+      "src": "ethics-case-studies.md",
+      "title": "AI in Practice: Ethics and Real Cases",
+      "headings": {
+        "warmup": "Warmup",
+        "knowledge-check": "Knowledge Check"
+      },
+      "headingKeywords": {}
+    },
+    {
+      "src": "working-with-ai-agents.md",
+      "title": "Working with AI Agents",
+      "headings": {
+        "warmup": "Warmup",
+        "knowledge-check": "Knowledge Check"
+      },
+      "headingKeywords": {}
+    },
+    {
+      "src": "where-is-this-going.md",
+      "title": "Where Is This Going?",
+      "headings": {
+        "warmup": "Warmup",
+        "knowledge-check": "Knowledge Check"
+      },
+      "headingKeywords": {}
+    }
+  ]
+}

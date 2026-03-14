@@ -1,0 +1,54 @@
+{
+  "baseUrl": "/ai-literacy",
+  "titlePrefix": "AI Literacy",
+  "style": {
+    "bootstrapTheme": "default",
+    "codeTheme": "dark"
+  },
+  "pages": [
+    {
+      "src": "index.md",
+      "title": "Home"
+    },
+    {
+      "src": "how-this-course-works.md",
+      "title": "How This Course Works"
+    },
+    {
+      "src": "youve-already-used-ai.md",
+      "title": "You've Already Used AI"
+    },
+    {
+      "src": "under-the-hood.md",
+      "title": "Under the Hood"
+    },
+    {
+      "src": "current-landscape.md",
+      "title": "What AI Can (and Can't) Do Right Now"
+    },
+    {
+      "src": "evaluating-outputs.md",
+      "title": "Evaluating AI Outputs"
+    },
+    {
+      "src": "using-ai-strategically.md",
+      "title": "Using AI Strategically"
+    },
+    {
+      "src": "ethics-case-studies.md",
+      "title": "AI in Practice: Ethics and Real Cases"
+    },
+    {
+      "src": "working-with-ai-agents.md",
+      "title": "Working with AI Agents"
+    },
+    {
+      "src": "where-is-this-going.md",
+      "title": "Where Is This Going?"
+    }
+  ],
+  "pagesExclude": [
+    "_markbind/**",
+    "node_modules/**"
+  ]
+}

@@ -1,0 +1,41 @@
+2026-03-14T16:22:38.020Z - info: Website generation started at 17:22:37
+2026-03-14T16:22:38.053Z - warn: ENOENT: no such file or directory, open '/Users/ric/dev/sbc/courses/ai-literacy/dist/markbind/_markbind/variables.md'
+2026-03-14T16:22:38.057Z - info: Building assets...
+2026-03-14T16:22:38.068Z - info: Assets built
+2026-03-14T16:22:38.069Z - info: Generating pages...
+2026-03-14T16:22:38.210Z - error: 'default.md' layout does not exist
+2026-03-14T16:22:38.211Z - error: 'default.md' layout does not exist
+2026-03-14T16:22:38.212Z - error: 'default.md' layout does not exist
+2026-03-14T16:22:38.213Z - error: 'default.md' layout does not exist
+2026-03-14T16:22:38.322Z - error: 'default.md' layout does not exist
+2026-03-14T16:22:38.323Z - error: 'default.md' layout does not exist
+2026-03-14T16:22:38.364Z - error: 'default.md' layout does not exist
+2026-03-14T16:22:38.365Z - error: 'default.md' layout does not exist
+2026-03-14T16:22:38.420Z - error: 'default.md' layout does not exist
+2026-03-14T16:22:38.452Z - error: 'default.md' layout does not exist
+2026-03-14T16:22:38.473Z - info: Pages built
+2026-03-14T16:22:38.584Z - info: Site data built
+2026-03-14T16:22:38.584Z - info: Website generation complete! Total build time: 0.585s
+2026-03-14T16:22:38.585Z - info: Build success!
+2026-03-14T16:23:03.524Z - info: Website generation started at 17:23:03
+2026-03-14T16:23:03.555Z - warn: ENOENT: no such file or directory, open '/Users/ric/dev/sbc/courses/ai-literacy/dist/markbind/_markbind/variables.md'
+2026-03-14T16:23:03.579Z - info: Building assets...
+2026-03-14T16:23:03.594Z - info: Assets built
+2026-03-14T16:23:03.595Z - info: Generating pages...
+2026-03-14T16:23:03.760Z - error: 'default.md' layout does not exist
+2026-03-14T16:23:03.761Z - error: 'default.md' layout does not exist
+2026-03-14T16:23:03.762Z - error: 'default.md' layout does not exist
+2026-03-14T16:23:03.763Z - error: 'default.md' layout does not exist
+2026-03-14T16:23:03.884Z - error: 'default.md' layout does not exist
+2026-03-14T16:23:03.885Z - error: 'default.md' layout does not exist
+2026-03-14T16:23:03.914Z - error: 'default.md' layout does not exist
+2026-03-14T16:23:03.937Z - error: 'default.md' layout does not exist
+2026-03-14T16:23:03.977Z - error: 'default.md' layout does not exist
+2026-03-14T16:23:04.006Z - error: 'default.md' layout does not exist
+2026-03-14T16:23:04.029Z - info: Pages built
+2026-03-14T16:23:04.086Z - info: Site data built
+2026-03-14T16:23:04.086Z - info: Website generation complete! Total build time: 0.604s
+2026-03-14T16:23:04.086Z - info: Build success!
+2026-03-14T16:23:26.285Z - info: Website generation started at 17:23:26
+2026-03-14T16:23:26.312Z - warn: ENOENT: no such file or directory, open '/Users/ric/dev/sbc/courses/ai-literacy/dist/markbind/_markbind/variables.md'
+2026-03-14T16:23:26.317Z - info: Building assets...
