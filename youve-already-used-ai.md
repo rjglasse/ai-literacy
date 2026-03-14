@@ -6,6 +6,21 @@
 
 <quiz>
 
+<question type="mcq" header="Before reading anything — which of these do you think counts as AI? Pick the one you&#x27;re most confident about.
+">
+  <q-option reason="This is a reasonable starting point — spam filters were among the earliest practical machine learning applications, and they do count as AI. If you hesitated here, it&#x27;s worth examining what you expected AI to look like.">A spam filter that moves junk email to a separate folder</q-option>
+  <q-option reason="This is a reasonable starting point — keyboard autocomplete is a language model in miniature, predicting likely next words from your typing history and patterns across many users. It&#x27;s a useful example to hold onto as the unit develops.">The autocomplete suggestions on your phone&#x27;s keyboard</q-option>
+  <q-option reason="This is a reasonable starting point — music recommendation systems are a classic application of machine learning, specifically collaborative filtering. If this felt more like AI than the others, it&#x27;s worth asking why.">A music app that recommends songs based on what you&#x27;ve played</q-option>
+  <q-option reason="This is a reasonable starting point — and it&#x27;s actually the most accurate of the four options. All three examples are AI systems. If you picked this confidently, you&#x27;re ahead of where most people start.">All of the above</q-option>
+</question>
+
+
+<question type="text" header="How confident are you that you could explain the difference between AI and ordinary software to someone who&#x27;s never studied either?
+" answer="Rate yourself from 1 (Not at all confident) to 5 (Very confident).">
+  <div slot="hint">Rate from 1 (Not at all confident) to 5 (Very confident).</div>
+</question>
+
+
 <question type="mcq" header="A friend says: &quot;I&#x27;ve never really used AI — I don&#x27;t have any of those chatbot apps.&quot; What would you say?
 ">
   <q-option reason="This underestimates how embedded AI has become in everyday services. Even without a dedicated AI app, most people interact with AI systems dozens of times a day through email filtering, search ranking, social feeds, and keyboard suggestions.">They&#x27;re probably right — AI is still fairly niche</q-option>
